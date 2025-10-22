@@ -59,11 +59,11 @@
 ## 🧑‍💻 GitHub Contributions
 
 <div align="center">
-  <a href="https://github.com/digpal-singh" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digpal-singh&layout=compact&hide=html&langs_count=8&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/DIGPALSINGHUMATH" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIGPALSINGHUMATH&layout=compact&hide=html&langs_count=8&theme=radical" alt="Top Languages" />
   </a>
-  <a href="https://github.com/digpal-singh" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=digpal-singh&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/DIGPALSINGHUMATH" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=DIGPALSINGHUMATH&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
 </div>
 
@@ -71,4 +71,4 @@
 
 ## 💬 Let’s Chat!
 
-Feel free to reach out if you’re interested in collaborating or just want to talk about code, system design, or game development!  
+Feel free to reach out if you’re interested in collaborating or just want to talk about backend code, system design, full stack java developent or game development!  
